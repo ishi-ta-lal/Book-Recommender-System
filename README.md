@@ -34,9 +34,9 @@ A book recommendation engine that helps you find your next favorite read!
 4. Open your browser and go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## 🌟 Preview
-![Home Page](./images/home.jpg)
-![Recommend Page](./images/recommend.jpg)
-![Contact Page](./images/contact.jpg)
+![Home Page](./images/home.png)
+![Recommend Page](./images/recommend.png)
+![Contact Page](./images/contact.png)
 
 ## 🤝 Contributions
 Feel free to fork this repository, submit issues, or create pull requests to improve the system!
