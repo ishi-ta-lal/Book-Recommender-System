@@ -7,6 +7,3 @@ __pycache__/
 
 # Ignore IDE files (specific to IntelliJ IDEA)
 .idea/
-
-# Ignore data folder (if needed)
-data/
